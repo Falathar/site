@@ -1,0 +1,32 @@
+  @charset "utf-8";
+/* CSS Document */
+ body
+ {
+  background-image:url(../image/bg-login.gif);
+	
+ 
+	 
+	 }
+#trois/*(50%,50%,700,500);*/
+{
+border-radius:7px;
+border-color:#999;
+width:300px;
+margin:auto;
+margin-top:200px;
+padding:20px;
+background:url(image/bg-login.gif);
+height:auto;
+border:double;
+border-color:#000;
+color:#CCC;
+
+
+
+}
+#bip
+{
+
+	margin-top:200px;
+	
+	}
